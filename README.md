@@ -12,6 +12,7 @@ that runs lm-sensor
 and reads the temperature output
 (https://wiki.archlinux.org/index.php/Lm-sensors_(Espa%C3%B1ol)#Leyendo_los_valores_SPD_desde_los_modulos_de_memoria_.28Opcional.29),
 
+i2c tools for reading output?
 modprobe eeprom
 modprobe: ERROR: could not insert 'eeprom': Operatrion not permitted
 
